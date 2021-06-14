@@ -16,4 +16,4 @@ No | Program | Solution | Language
 11  | Pair Of Sum |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/pairofsum.cpp) | c++
 12  | Consecutive Duplicate Char |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/consecutive_duplicate_char.cpp) | c++
 13  | largest String |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/largestString.cpp) | c++
-14  | Selection Sort |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/palindrome.cpp) | c++
+14  | Palindrome |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/palindrome.cpp) | c++
