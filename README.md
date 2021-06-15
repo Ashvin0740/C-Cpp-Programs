@@ -17,3 +17,9 @@ No | Program | Solution | Language
 12  | Consecutive Duplicate Char |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/consecutive_duplicate_char.cpp) | c++
 13  | largest String |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/largestString.cpp) | c++
 14  | Palindrome |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/palindrome.cpp) | c++
+
+# 2D Array
+
+No | Program | Solution | Language 
+---|---------|----------|---------
+1
