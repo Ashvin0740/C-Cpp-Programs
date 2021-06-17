@@ -25,6 +25,10 @@ No | Program | Solution | Language
 6  | largest String |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/largestString.cpp) | c++
 7  | Palindrome |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/palindrome.cpp) | c++
 8  | [Tralink Zero(HackerBlocks)](https://hack.codingblocks.com/app/practice/6/1041/problem) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/TrailingZeroes.cpp)
+9  | Mountain |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Mountain.cpp) | c++
+10  | longest Band |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/longestBand.cpp) | c++
+11 | [Trapping Rain Water(Leet Code)](https://leetcode.com/problems/trapping-rain-water/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/rainsWater.cpp) | c++
+12 | [ Squares of a Sorted Array(Leet Code)](https://leetcode.com/problems/squares-of-a-sorted-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/sortedSquare.cpp) | c++
 
 # 2D Array
 
