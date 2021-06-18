@@ -37,6 +37,6 @@ No | Program | Solution | Language
 1  |2D Array |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/2DArray.cpp)|c++
 2  | WavePrint_2D |[Solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/wavePrint_2D.cpp) | c++
 3  | [Piyush And MagicalPark(HackerBlocks)](https://hack.codingblocks.com/app/practice/6/1051/problem) |[Solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/piyushandMagicalPark.cpp) | c++
-4  | [Spiral Matrix(LeetCode)](https://leetcode.com/problems/spiral-matrix/) |[Solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/piyushandMagicalPark.cpp) | c++
+4  | [Spiral Matrix(LeetCode)](https://leetcode.com/problems/spiral-matrix/) |[Solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/spiralPrint_2D.cpp) | c++
 5  | [Rotate Image(HackerBlocks)](https://hack.codingblocks.com/app/practice/6/1012/problem) |[Solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/RotateImage.cpp) | c++
 6  |2D Char | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/2D_char.cpp) | c++
