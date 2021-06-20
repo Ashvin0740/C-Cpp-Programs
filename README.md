@@ -39,7 +39,10 @@ No | Program | Solution | Language
 4  | [Spiral Matrix(LeetCode)](https://leetcode.com/problems/spiral-matrix/) |[Solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/spiralPrint_2D.cpp) | c++
 5  | [Rotate Image(HackerBlocks)](https://hack.codingblocks.com/app/practice/6/1012/problem) |[Solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/RotateImage.cpp) | c++
 6  |2D Char | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/2D_char.cpp) | c++
-
+7  |[Count Negative Numbers In a Sorted Matrix(leet code)](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/CountNegativeNumbersInaSortedMatrix.cpp) | c++
+8  |[Matrix Diagonal Sum(leet code)](https://leetcode.com/problems/matrix-diagonal-sum/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MatrixDiagonalSum.cpp) | c++
+9  |[Max Chunks To Make Sorted(leet code)](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MaxChunksToMakeSorted.cpp) | c++
+10 |[Maximum of Absolute Value Expression(leet code)](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MaximumofAbsoluteValueExpression.cpp) | c++
 # Stering
 
 
