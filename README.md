@@ -1,4 +1,4 @@
-# C/C++ Programs
+# C++ Programs & DSA
  
  
 No | Program | Solution | Language 
@@ -28,6 +28,11 @@ No | Program | Solution | Language
 8  | longest Band |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/longestBand.cpp) | c++
 9 | [Trapping Rain Water(Leet Code)](https://leetcode.com/problems/trapping-rain-water/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/rainsWater.cpp) | c++
 10 | [ Squares of a Sorted Array(Leet Code)](https://leetcode.com/problems/squares-of-a-sorted-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/sortedSquare.cpp) | c++
+11 | [ Best Time to Buy and Sell Stock(Leet Code)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/BestTimetoBuyandSellStock.cpp) | c++
+12| [ Best Time to Buy and Sell Stock II(Leet Code)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/BestTimetoBuyandSellStockII.cpp) | c++
+13 | [ Maximum Subarray(Leet Code)](https://leetcode.com/problems/maximum-subarray/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MaximumSubarray.cpp) | c++
+14 | [ Merge Sorted Array(Leet Code)](https://leetcode.com/problems/merge-sorted-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MergeSortedArray.cpp) | c++
+15 |[MoveZero(Leet Code)](https://leetcode.com/problems/move-zeroes/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MoveZero.cpp) | c++
 
 # 2D Array
 
