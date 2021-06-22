@@ -12,6 +12,7 @@ No | Program | Solution | Language
 7  | Insertion Sort |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/insertion_sort.cpp) | c++
 8  | [Swastik Pattern(HackerBlocks)](https://hack.codingblocks.com/app/practice/6/1055/problem) |[Solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/insertion_sort.cpp) | c++
 9  | Factorial |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Factorial.cpp) | c++
+10  | [Fibonacci Number(Leet Code)](https://leetcode.com/problems/fibonacci-number/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FibonacciNumber.cpp) | c++
 
 
 # Array
@@ -33,6 +34,7 @@ No | Program | Solution | Language
 13 | [ Maximum Subarray(Leet Code)](https://leetcode.com/problems/maximum-subarray/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MaximumSubarray.cpp) | c++
 14 | [ Merge Sorted Array(Leet Code)](https://leetcode.com/problems/merge-sorted-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MergeSortedArray.cpp) | c++
 15 |[MoveZero(Leet Code)](https://leetcode.com/problems/move-zeroes/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MoveZero.cpp) | c++
+16 |[Running Sum of 1d Array(Leet Code)](https://leetcode.com/problems/running-sum-of-1d-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/RunningSumof1dArray.cpp) | c++
 
 # 2D Array
 
@@ -48,6 +50,7 @@ No | Program | Solution | Language
 8  |[Matrix Diagonal Sum(leet code)](https://leetcode.com/problems/matrix-diagonal-sum/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MatrixDiagonalSum.cpp) | c++
 9  |[Max Chunks To Make Sorted(leet code)](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MaxChunksToMakeSorted.cpp) | c++
 10 |[Maximum of Absolute Value Expression(leet code)](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MaximumofAbsoluteValueExpression.cpp) | c++
+11 |[Spiral Matrix(leet code)](https://leetcode.com/problems/spiral-matrix/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SpiralMatrix.cpp) | c++
 # Stering
 
 
