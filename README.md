@@ -13,6 +13,8 @@ No | Program | Solution | Language
 8  | [Swastik Pattern(HackerBlocks)](https://hack.codingblocks.com/app/practice/6/1055/problem) |[Solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/insertion_sort.cpp) | c++
 9  | Factorial |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Factorial.cpp) | c++
 10  | [Fibonacci Number(Leet Code)](https://leetcode.com/problems/fibonacci-number/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FibonacciNumber.cpp) | c++
+11  | [PascalsTringle(Leet Code)](https://leetcode.com/problems/pascals-triangle/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/PascalsTringle.cpp) | c++
+
 
 
 # Array
@@ -35,6 +37,10 @@ No | Program | Solution | Language
 14 | [ Merge Sorted Array(Leet Code)](https://leetcode.com/problems/merge-sorted-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MergeSortedArray.cpp) | c++
 15 |[MoveZero(Leet Code)](https://leetcode.com/problems/move-zeroes/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MoveZero.cpp) | c++
 16 |[Running Sum of 1d Array(Leet Code)](https://leetcode.com/problems/running-sum-of-1d-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/RunningSumof1dArray.cpp) | c++
+17 |[FindPivot Index(Leet Code)](https://leetcode.com/problems/find-pivot-index/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FindPivotIndex.cpp) | c++
+18 |[Majority Element(Leet Code)](https://leetcode.com/problems/majority-element/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MajorityElement.cpp) | c++
+19 |[Remove Duplicates from Sorted Array(Leet Code)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/RemoveDuplicatesfromSortedArray.cpp) | c++
+20 |[Squares of a Sorted Array(Leet Code)](https://leetcode.com/problems/squares-of-a-sorted-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SquaresofaSortedArray.cpp) | c++
 
 # 2D Array
 
