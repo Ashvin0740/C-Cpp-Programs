@@ -82,7 +82,7 @@ No | Program | Solution | Language
 
 
 # Binary Search
-# Bit
+
 No | Program | Solution | Language 
 ---|---------|----------|---------
 1 |[Binary Search(leet code)](https://leetcode.com/problems/binary-search/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/BinarySearch.cpp) | c++
