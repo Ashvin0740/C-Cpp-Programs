@@ -14,8 +14,8 @@ No | Program | Solution | Language
 9  | Factorial |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Factorial.cpp) | c++
 10  | [Fibonacci Number(Leet Code)](https://leetcode.com/problems/fibonacci-number/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FibonacciNumber.cpp) | c++
 11  | [PascalsTringle(Leet Code)](https://leetcode.com/problems/pascals-triangle/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/PascalsTringle.cpp) | c++
-11  | [Number of Digit One(Leet Code)](https://leetcode.com/problems/number-of-digit-one/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/NumberofDigitOne.cpp) | c++
-
+12  | [Number of Digit One(Leet Code)](https://leetcode.com/problems/number-of-digit-one/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/NumberofDigitOne.cpp) | c++
+13  | [Sqrt(x)(Leet Code)](https://leetcode.com/problems/sqrtx/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Squr_X.cpp) | c++
 
 # Array
 
@@ -80,3 +80,10 @@ No | Program | Solution | Language
 ---|---------|----------|---------
 1 |[Number of 1 Bits(leet code)](https://leetcode.com/problems/number-of-1-bits/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Numberof1Bits.cpp) | c++
 
+
+# Binary Search
+# Bit
+No | Program | Solution | Language 
+---|---------|----------|---------
+1 |[Binary Search(leet code)](https://leetcode.com/problems/binary-search/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/BinarySearch.cpp) | c++
+2 |[Find First and Last Position of Element in Sorted Array(leet code)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FindFirstandLastPositionofElementinSortedArray.cpp) | c++
