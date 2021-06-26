@@ -14,7 +14,7 @@ No | Program | Solution | Language
 9  | Factorial |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Factorial.cpp) | c++
 10  | [Fibonacci Number(Leet Code)](https://leetcode.com/problems/fibonacci-number/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FibonacciNumber.cpp) | c++
 11  | [PascalsTringle(Leet Code)](https://leetcode.com/problems/pascals-triangle/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/PascalsTringle.cpp) | c++
-
+11  | [Number of Digit One(Leet Code)](https://leetcode.com/problems/number-of-digit-one/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/NumberofDigitOne.cpp) | c++
 
 
 # Array
@@ -41,7 +41,14 @@ No | Program | Solution | Language
 18 |[Majority Element(Leet Code)](https://leetcode.com/problems/majority-element/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MajorityElement.cpp) | c++
 19 |[Remove Duplicates from Sorted Array(Leet Code)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/RemoveDuplicatesfromSortedArray.cpp) | c++
 20 |[Squares of a Sorted Array(Leet Code)](https://leetcode.com/problems/squares-of-a-sorted-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SquaresofaSortedArray.cpp) | c++
-
+21 |[3 Sum(Leet Code)](https://leetcode.com/problems/3sum/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/3Sum.cpp) | c++
+22 |[Container With Most Water(Leet Code)](https://leetcode.com/problems/container-with-most-water/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ContainerWithMostWater.cpp) | c++
+23 |[Find Peak Element(Leet Code)](https://leetcode.com/problems/find-peak-element/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FindPeakElement.cpp) | c++
+24 |[Insert Delete Get Random(Leet Code)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/InsertDeleteGetRandom.cpp) | c++
+24 |[Product of Array Except Self(Leet Code)](https://leetcode.com/problems/product-of-array-except-self/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ProductofArrayExceptSelf.cpp) | c++
+25 |[Search in Rotated Sorted Array(Leet Code)](https://leetcode.com/problems/search-in-rotated-sorted-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SearchinRotatedSortedArray.cpp) | c++
+26 |[Single Number(Leet Code)](https://leetcode.com/problems/single-number/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C++%20program/SingleNumber.cpp) | c++
+27 |[Subarray Sum Equals K(Leet Code)](https://leetcode.com/problems/subarray-sum-equals-k/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SubarraySumEqualsK.cpp) | c++
 # 2D Array
 
 No | Program | Solution | Language 
@@ -57,6 +64,7 @@ No | Program | Solution | Language
 9  |[Max Chunks To Make Sorted(leet code)](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MaxChunksToMakeSorted.cpp) | c++
 10 |[Maximum of Absolute Value Expression(leet code)](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MaximumofAbsoluteValueExpression.cpp) | c++
 11 |[Spiral Matrix(leet code)](https://leetcode.com/problems/spiral-matrix/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SpiralMatrix.cpp) | c++
+12 |[Merge Intervals(leet code)](https://leetcode.com/problems/merge-intervals/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MergeIntervals.cpp) | c++
 # Stering
 
 
@@ -66,4 +74,9 @@ No | Program | Solution | Language
 2  | Palindrome |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/palindrome.cpp) | c++
 3  | Strings Max Frequency Character| [Solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Strings_MaxFrequencyCharacter.cpp) | c++
 4  | largest String |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/largestString.cpp) | c++
+
+# Bit
+No | Program | Solution | Language 
+---|---------|----------|---------
+1 |[Number of 1 Bits(leet code)](https://leetcode.com/problems/number-of-1-bits/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Numberof1Bits.cpp) | c++
 
