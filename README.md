@@ -14,8 +14,8 @@ No | Program | Solution | Language
 9  | Factorial |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Factorial.cpp) | c++
 10  | [Fibonacci Number(Leet Code)](https://leetcode.com/problems/fibonacci-number/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FibonacciNumber.cpp) | c++
 11  | [PascalsTringle(Leet Code)](https://leetcode.com/problems/pascals-triangle/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/PascalsTringle.cpp) | c++
-11  | [Number of Digit One(Leet Code)](https://leetcode.com/problems/number-of-digit-one/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/NumberofDigitOne.cpp) | c++
-
+12  | [Number of Digit One(Leet Code)](https://leetcode.com/problems/number-of-digit-one/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/NumberofDigitOne.cpp) | c++
+13  | [Sqrt(x)(Leet Code)](https://leetcode.com/problems/sqrtx/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Squr_X.cpp) | c++
 
 # Array
 
@@ -47,8 +47,7 @@ No | Program | Solution | Language
 24 |[Insert Delete Get Random(Leet Code)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/InsertDeleteGetRandom.cpp) | c++
 24 |[Product of Array Except Self(Leet Code)](https://leetcode.com/problems/product-of-array-except-self/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ProductofArrayExceptSelf.cpp) | c++
 25 |[Search in Rotated Sorted Array(Leet Code)](https://leetcode.com/problems/search-in-rotated-sorted-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SearchinRotatedSortedArray.cpp) | c++
-26 |[Single Number(Leet Code)](https://leetcode.com/problems/single-number/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C++%20program/SingleNumber.cpp) | c++
-27 |[Subarray Sum Equals K(Leet Code)](https://leetcode.com/problems/subarray-sum-equals-k/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SubarraySumEqualsK.cpp) | c++
+26 |[Subarray Sum Equals K(Leet Code)](https://leetcode.com/problems/subarray-sum-equals-k/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SubarraySumEqualsK.cpp) | c++
 # 2D Array
 
 No | Program | Solution | Language 
@@ -79,4 +78,11 @@ No | Program | Solution | Language
 No | Program | Solution | Language 
 ---|---------|----------|---------
 1 |[Number of 1 Bits(leet code)](https://leetcode.com/problems/number-of-1-bits/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Numberof1Bits.cpp) | c++
+2 |[Single Number(Leet Code)](https://leetcode.com/problems/single-number/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C++%20program/SingleNumber.cpp) | c++
 
+# Binary Search
+
+No | Program | Solution | Language 
+---|---------|----------|---------
+1 |[Binary Search(leet code)](https://leetcode.com/problems/binary-search/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/BinarySearch.cpp) | c++
+2 |[Find First and Last Position of Element in Sorted Array(leet code)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FindFirstandLastPositionofElementinSortedArray.cpp) | c++
