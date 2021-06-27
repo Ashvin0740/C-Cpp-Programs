@@ -87,6 +87,6 @@ No | Program | Solution | Language
 1 |[Binary Search(leet code)](https://leetcode.com/problems/binary-search/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/BinarySearch.cpp) | c++
 2 |[Find First and Last Position of Element in Sorted Array(leet code)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FindFirstandLastPositionofElementinSortedArray.cpp) | c++
 3 |[Magnetic Force Between Two Balls(leet code)](https://leetcode.com/problems/magnetic-force-between-two-balls/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MagneticForceBetweenTwoBalls.cpp) | c++
-4 |[Aggresive_cow] | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Aggresive_cow.cpp) | c++
+4 |aggressive cows | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Aggresive_cow.cpp) | c++
 5 |[Capacity To Ship Packages Within D Days(leet code)](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/CapacityToShipPackagesWithinDDays.cpp) | c++
 6 |[Split Array Largest Sum(leet code)](https://leetcode.com/problems/split-array-largest-sum/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SplitArrayLargestSum.cpp) | c++
