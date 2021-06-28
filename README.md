@@ -16,7 +16,7 @@ No | Program | Solution | Language
 11  | [PascalsTringle(Leet Code)](https://leetcode.com/problems/pascals-triangle/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/PascalsTringle.cpp) | c++
 12  | [Number of Digit One(Leet Code)](https://leetcode.com/problems/number-of-digit-one/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/NumberofDigitOne.cpp) | c++
 13  | [Sqrt(x)(Leet Code)](https://leetcode.com/problems/sqrtx/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Squr_X.cpp) | c++
-
+14  | [Reverse Integer(Leet Code)](https://leetcode.com/problems/reverse-integer/)|[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Reverse_Integer.cpp) | c++
 # Array
 
 No | Program | Solution | Language 
@@ -48,6 +48,7 @@ No | Program | Solution | Language
 24 |[Product of Array Except Self(Leet Code)](https://leetcode.com/problems/product-of-array-except-self/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ProductofArrayExceptSelf.cpp) | c++
 25 |[Search in Rotated Sorted Array(Leet Code)](https://leetcode.com/problems/search-in-rotated-sorted-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SearchinRotatedSortedArray.cpp) | c++
 26 |[Subarray Sum Equals K(Leet Code)](https://leetcode.com/problems/subarray-sum-equals-k/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SubarraySumEqualsK.cpp) | c++
+27 |[Kids With the Greatest Number of Candies(Leet Code)](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/KidsWiththeGreatestNumberofCandies.cpp) | c++
 # 2D Array
 
 No | Program | Solution | Language 
@@ -64,6 +65,8 @@ No | Program | Solution | Language
 10 |[Maximum of Absolute Value Expression(leet code)](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MaximumofAbsoluteValueExpression.cpp) | c++
 11 |[Spiral Matrix(leet code)](https://leetcode.com/problems/spiral-matrix/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SpiralMatrix.cpp) | c++
 12 |[Merge Intervals(leet code)](https://leetcode.com/problems/merge-intervals/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MergeIntervals.cpp) | c++
+13 |[Richest Customer Wealth(leet code)](https://leetcode.com/problems/richest-customer-wealth/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/RichestCustomerWealth.cpp) | c++
+14 |[Two Sum(leet code)](https://leetcode.com/problems/two-sum/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Two_Sum.cpp) | c++
 # Stering
 
 
