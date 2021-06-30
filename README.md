@@ -85,6 +85,7 @@ No | Program | Solution | Language
 ---|---------|----------|---------
 1 |[Number of 1 Bits(leet code)](https://leetcode.com/problems/number-of-1-bits/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Numberof1Bits.cpp) | c++
 2 |[Single Number(Leet Code)](https://leetcode.com/problems/single-number/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C++%20program/SingleNumber.cpp) | c++
+3 |[Missing Number(Leet Code)](https://leetcode.com/problems/missing-number/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MissingNumber.cpp) | c++
 
 # Binary Search
 
@@ -96,3 +97,8 @@ No | Program | Solution | Language
 4 |aggressive cows | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Aggresive_cow.cpp) | c++
 5 |[Capacity To Ship Packages Within D Days(leet code)](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/CapacityToShipPackagesWithinDDays.cpp) | c++
 6 |[Split Array Largest Sum(leet code)](https://leetcode.com/problems/split-array-largest-sum/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SplitArrayLargestSum.cpp) | c++
+7 |[Find Minimum in Rotated Sorted Array(leet code)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FindMinimuminRotatedSortedArray.cpp) | c++
+8 |[Find the Duplicate Number(leet code)](https://leetcode.com/problems/find-the-duplicate-number/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FindtheDuplicateNumber.cpp) | c++
+9 |[First Bad Version(leet code)](https://leetcode.com/problems/first-bad-version/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FirstBadVersion.cpp) | c++
+10 |[Single Element in a Sorted Array(leet code)](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SingleElementinaSortedArray.cpp) | c++
+
