@@ -49,6 +49,9 @@ No | Program | Solution | Language
 25 |[Search in Rotated Sorted Array(Leet Code)](https://leetcode.com/problems/search-in-rotated-sorted-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SearchinRotatedSortedArray.cpp) | c++
 26 |[Subarray Sum Equals K(Leet Code)](https://leetcode.com/problems/subarray-sum-equals-k/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SubarraySumEqualsK.cpp) | c++
 27 |[Kids With the Greatest Number of Candies(Leet Code)](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/KidsWiththeGreatestNumberofCandies.cpp) | c++
+28 |[Longest Substring Without Repeating Characters(Leet Code)](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LongestSubstringWithoutRepeatingCharacters.cpp) | c++
+29 |[Peak Index in a Mountain Array(Leet Code)](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/PeakIndexinaMountainArray.cpp) | c++
+30 |[Shuffle the Array(Leet Code)](https://leetcode.com/problems/shuffle-the-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ShuffletheArray.cpp) | c++
 # 2D Array
 
 No | Program | Solution | Language 
