@@ -101,4 +101,7 @@ No | Program | Solution | Language
 8 |[Find the Duplicate Number(leet code)](https://leetcode.com/problems/find-the-duplicate-number/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FindtheDuplicateNumber.cpp) | c++
 9 |[First Bad Version(leet code)](https://leetcode.com/problems/first-bad-version/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/FirstBadVersion.cpp) | c++
 10 |[Single Element in a Sorted Array(leet code)](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SingleElementinaSortedArray.cpp) | c++
+11 |[Spiral Matrix II(leet code)](https://leetcode.com/problems/spiral-matrix-ii/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SpiralMatrixII.cpp) | c++
+12 |[Next Permutation(leet code)](https://leetcode.com/problems/next-permutation/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/NextPermutation.cpp) | c++
+13 |[Minimum Limit of Balls in a Bag(leet code)](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MinimumLimitofBallsinaBag.cpp) | c++
 
