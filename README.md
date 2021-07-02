@@ -86,6 +86,7 @@ No | Program | Solution | Language
 1 |[Number of 1 Bits(leet code)](https://leetcode.com/problems/number-of-1-bits/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Numberof1Bits.cpp) | c++
 2 |[Single Number(Leet Code)](https://leetcode.com/problems/single-number/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C++%20program/SingleNumber.cpp) | c++
 3 |[Missing Number(Leet Code)](https://leetcode.com/problems/missing-number/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MissingNumber.cpp) | c++
+3 |[Total Hamming Distance(Leet Code)](https://leetcode.com/problems/total-hamming-distance/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/TotalHammingDistance.cpp) | c++
 
 # Binary Search
 
@@ -104,4 +105,6 @@ No | Program | Solution | Language
 11 |[Spiral Matrix II(leet code)](https://leetcode.com/problems/spiral-matrix-ii/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SpiralMatrixII.cpp) | c++
 12 |[Next Permutation(leet code)](https://leetcode.com/problems/next-permutation/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/NextPermutation.cpp) | c++
 13 |[Minimum Limit of Balls in a Bag(leet code)](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MinimumLimitofBallsinaBag.cpp) | c++
+14 |[Koko Eating Bananas(leet code)](https://leetcode.com/problems/koko-eating-bananas/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/KokoEatingBananas.cpp) | c++
+15 |[Minimum Number of Days to Make m Bouquets(leet code)](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MinimumNumberofDaystoMakemBouquet.cpp) | c++
 
