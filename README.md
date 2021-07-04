@@ -52,6 +52,11 @@ No | Program | Solution | Language
 28 |[Longest Substring Without Repeating Characters(Leet Code)](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LongestSubstringWithoutRepeatingCharacters.cpp) | c++
 29 |[Peak Index in a Mountain Array(Leet Code)](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/PeakIndexinaMountainArray.cpp) | c++
 30 |[Shuffle the Array(Leet Code)](https://leetcode.com/problems/shuffle-the-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ShuffletheArray.cpp) | c++
+31 |[Longest Common Prefix(Leet Code)](https://leetcode.com/problems/longest-common-prefix/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LongestCommonPrefix.cpp) | c++
+32 |[Minimum Size Subarray Sum(Leet Code)](https://leetcode.com/problems/minimum-size-subarray-sum/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MinimumSizeSubarraySum.cpp) | c++
+33 |[Remove Element(Leet Code)](https://leetcode.com/problems/remove-element/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/RemoveElement.cpp) | c++
+
+
 # 2D Array
 
 No | Program | Solution | Language 
@@ -70,6 +75,7 @@ No | Program | Solution | Language
 12 |[Merge Intervals(leet code)](https://leetcode.com/problems/merge-intervals/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MergeIntervals.cpp) | c++
 13 |[Richest Customer Wealth(leet code)](https://leetcode.com/problems/richest-customer-wealth/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/RichestCustomerWealth.cpp) | c++
 14 |[Two Sum(leet code)](https://leetcode.com/problems/two-sum/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Two_Sum.cpp) | c++
+15 |[Transpose Matrix(leet code)](https://leetcode.com/problems/transpose-matrix/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/TransposeMatrix.cpp) | c++
 # Stering
 
 
@@ -107,4 +113,6 @@ No | Program | Solution | Language
 13 |[Minimum Limit of Balls in a Bag(leet code)](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MinimumLimitofBallsinaBag.cpp) | c++
 14 |[Koko Eating Bananas(leet code)](https://leetcode.com/problems/koko-eating-bananas/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/KokoEatingBananas.cpp) | c++
 15 |[Minimum Number of Days to Make m Bouquets(leet code)](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MinimumNumberofDaystoMakemBouquet.cpp) | c++
+16 |[Search Insert Position(leet code)](https://leetcode.com/problems/search-insert-position/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SearchInsertPosition.cpp) | c++
+17 |[Search in Rotated Sorted Array II(leet code)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SearchinRotatedSortedArrayII.cpp) | c++
 
