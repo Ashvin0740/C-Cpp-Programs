@@ -55,8 +55,8 @@ No | Program | Solution | Language
 31 |[Longest Common Prefix(Leet Code)](https://leetcode.com/problems/longest-common-prefix/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LongestCommonPrefix.cpp) | c++
 32 |[Minimum Size Subarray Sum(Leet Code)](https://leetcode.com/problems/minimum-size-subarray-sum/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/MinimumSizeSubarraySum.cpp) | c++
 33 |[Remove Element(Leet Code)](https://leetcode.com/problems/remove-element/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/RemoveElement.cpp) | c++
-33 |[Valid Mountain Array(Leet Code)](https://leetcode.com/problems/valid-mountain-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ValidMountainArray.cpp) | c++
-
+34 |[Valid Mountain Array(Leet Code)](https://leetcode.com/problems/valid-mountain-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ValidMountainArray.cpp) | c++
+35 |[Majority Element II(Leet Code)](https://leetcode.com/problems/majority-element-ii/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Majority_Element_II.cpp) | c++
 # 2D Array
 
 No | Program | Solution | Language 
@@ -124,5 +124,7 @@ No | Program | Solution | Language
 No | Program | Solution | Language 
 ---|---------|----------|---------
 1  |[K-th Symbol in Grammar(leet code)](https://leetcode.com/problems/k-th-symbol-in-grammar/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/K-thSymbolinGrammar.cpp)|c++
+2  |[Reverse String(leet code)](https://leetcode.com/problems/reverse-string/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ReverseString.cpp)|c++
+3  |[Fibonacci Number(leet code)](https://leetcode.com/problems/fibonacci-number/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Fibonacci_Number.cpp)|c++
 
 
