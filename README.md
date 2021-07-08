@@ -126,5 +126,6 @@ No | Program | Solution | Language
 1  |[K-th Symbol in Grammar(leet code)](https://leetcode.com/problems/k-th-symbol-in-grammar/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/K-thSymbolinGrammar.cpp)|c++
 2  |[Reverse String(leet code)](https://leetcode.com/problems/reverse-string/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ReverseString.cpp)|c++
 3  |[Fibonacci Number(leet code)](https://leetcode.com/problems/fibonacci-number/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Fibonacci_Number.cpp)|c++
+4  |[Subsets(leet code)](https://leetcode.com/problems/subsets/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Subsets.cpp)|c++
 
 
