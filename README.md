@@ -123,9 +123,23 @@ No | Program | Solution | Language
 
 No | Program | Solution | Language 
 ---|---------|----------|---------
-1  |[K-th Symbol in Grammar(leet code)](https://leetcode.com/problems/k-th-symbol-in-grammar/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/K-thSymbolinGrammar.cpp)|c++
-2  |[Reverse String(leet code)](https://leetcode.com/problems/reverse-string/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ReverseString.cpp)|c++
-3  |[Fibonacci Number(leet code)](https://leetcode.com/problems/fibonacci-number/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Fibonacci_Number.cpp)|c++
-4  |[Subsets(leet code)](https://leetcode.com/problems/subsets/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Subsets.cpp)|c++
+1  |first_occurrences |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/first_occurrences.cpp)|c++
+2  |Last_occurrences |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/last_occ.cpp)|c++
+3  |All_occurrences |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/all_occurrences.cpp)|c++
+4  |FastPowerRecursion |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/FastPowerRecursion.cpp)|c++
+5  |Bubble_sort_recursion |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/bubble_sort_recursion.cpp)|c++
+6  |MergeSort |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/mergeSort.cpp)|c++
+7  |InversionCount |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/6.InversionCount.cpp)|c++
+8  |Quick_sort |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/quick_sort.cpp)|c++
+9  |Nums To Char |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/numsToChar.cpp)|c++
+10  |Replace_Pi_With_3.14 |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/Replace_Pi_With_3.14.cpp)|c++
+11  |Ladder_Problem |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/Ladder_Problem.cpp)|c++
+12  |Tower Of Hanoi |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/towerOfHanoi.cpp)|c++
+13  |SubSet |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/SubSet.cpp)|c++
+14  | 0-1_knapsack |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/0-1_knapsack.cpp)|c++
+15  |[K-th Symbol in Grammar(leet code)](https://leetcode.com/problems/k-th-symbol-in-grammar/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/K-thSymbolinGrammar.cpp)|c++
+16  |[Reverse String(leet code)](https://leetcode.com/problems/reverse-string/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ReverseString.cpp)|c++
+17  |[Fibonacci Number(leet code)](https://leetcode.com/problems/fibonacci-number/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Fibonacci_Number.cpp)|c++
+18  |[Subsets(leet code)](https://leetcode.com/problems/subsets/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Subsets.cpp)|c++
 
 
