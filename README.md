@@ -141,5 +141,8 @@ No | Program | Solution | Language
 16  |[Reverse String(leet code)](https://leetcode.com/problems/reverse-string/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ReverseString.cpp)|c++
 17  |[Fibonacci Number(leet code)](https://leetcode.com/problems/fibonacci-number/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Fibonacci_Number.cpp)|c++
 18  |[Subsets(leet code)](https://leetcode.com/problems/subsets/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Subsets.cpp)|c++
-
-
+19  |[Combination Sum(leet code)](https://leetcode.com/problems/combination-sum/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/CombinationSum.cpp)|c++
+20  |[Letter Combinations of a Phone Number(leet code)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |[solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|c++
+21  |Permutations |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/Permutations.cpp)|c++
+22  |RecursionRatinaMaze. |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/RecursionRatinaMaze.cpp)|c++
+23  |StringGenerationAcodeRecursion |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/StringGenerationAcodeRecursion.cpp)|c++
