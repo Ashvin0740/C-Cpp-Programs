@@ -146,3 +146,6 @@ No | Program | Solution | Language
 21  |Permutations |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/Permutations.cpp)|c++
 22  |RecursionRatinaMaze. |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/RecursionRatinaMaze.cpp)|c++
 23  |StringGenerationAcodeRecursion |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/StringGenerationAcodeRecursion.cpp)|c++
+24  |[Palindrome Partitioning(leet code)](https://leetcode.com/problems/palindrome-partitioning/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/PalindromePartitioning.cpp)|c++
+25  |[Permutations(leet code)](https://leetcode.com/problems/permutations/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Permutations.cpp)|c++
+26  |[Permutations II(leet code)](https://leetcode.com/problems/permutations-ii/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Permutations_II.cpp)|c++
