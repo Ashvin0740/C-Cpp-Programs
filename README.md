@@ -149,3 +149,5 @@ No | Program | Solution | Language
 24  |[Palindrome Partitioning(leet code)](https://leetcode.com/problems/palindrome-partitioning/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/PalindromePartitioning.cpp)|c++
 25  |[Permutations(leet code)](https://leetcode.com/problems/permutations/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Permutations.cpp)|c++
 26  |[Permutations II(leet code)](https://leetcode.com/problems/permutations-ii/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Permutations_II.cpp)|c++
+27 |[N-Queens(leet code)](https://leetcode.com/problems/n-queens/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/N-Queens.cpp)|c++
+28|[Sudoku Solver(leet code)](https://leetcode.com/problems/sudoku-solver/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Sudoku_Solver.cpp)|c++
