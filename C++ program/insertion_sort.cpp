@@ -30,7 +30,7 @@ int main() {
 
         for(int i=0;i<n; i++){
             //  cout << "sorted list is";
-            cout << a[i] <<" ,";
+            cout << a[i] <<" ,";   
         }
        return 0;
 
