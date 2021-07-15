@@ -151,3 +151,6 @@ No | Program | Solution | Language
 26  |[Permutations II(leet code)](https://leetcode.com/problems/permutations-ii/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Permutations_II.cpp)|c++
 27 |[N-Queens(leet code)](https://leetcode.com/problems/n-queens/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/N-Queens.cpp)|c++
 28|[Sudoku Solver(leet code)](https://leetcode.com/problems/sudoku-solver/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Sudoku_Solver.cpp)|c++
+29|[Permutation Sequence(leet code)](https://leetcode.com/problems/permutation-sequence/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/PermutationSequence.cpp)|c++
+30|[Gray Code(leet code)](https://leetcode.com/problems/gray-code/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/GrayCode.cpp)|c++
+31|[ Best Time to Buy and Sell Stock III(leet code)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/GrayCode.cpp)|c++
