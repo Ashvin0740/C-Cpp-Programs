@@ -58,7 +58,7 @@ No | Program | Solution | Language
 34 |[Valid Mountain Array(Leet Code)](https://leetcode.com/problems/valid-mountain-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ValidMountainArray.cpp) | c++
 35 |[Majority Element II(Leet Code)](https://leetcode.com/problems/majority-element-ii/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Majority_Element_II.cpp) | c++
 36|[ Best Time to Buy and Sell Stock III(leet code)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/BestTimetoBuyandSellStock_III.cpp)|c++
-
+37|[Valid Triangle Number(leet code)](https://leetcode.com/problems/valid-triangle-number/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ValidTriangleNumber.cpp)|c++
 
 # 2D Array
 
@@ -80,6 +80,7 @@ No | Program | Solution | Language
 14 |[Two Sum(leet code)](https://leetcode.com/problems/two-sum/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Two_Sum.cpp) | c++
 15 |[Transpose Matrix(leet code)](https://leetcode.com/problems/transpose-matrix/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/TransposeMatrix.cpp) | c++
 16 |[Search a 2D Matrix II(leet code)](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Searcha2DMatrixII.cpp) | c++
+17 |[ Rotate Image(leet code)](https://leetcode.com/problems/rotate-image/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Rotate_Image.cpp) | c++
 # Stering
 
 
