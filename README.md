@@ -57,6 +57,9 @@ No | Program | Solution | Language
 33 |[Remove Element(Leet Code)](https://leetcode.com/problems/remove-element/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/RemoveElement.cpp) | c++
 34 |[Valid Mountain Array(Leet Code)](https://leetcode.com/problems/valid-mountain-array/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/ValidMountainArray.cpp) | c++
 35 |[Majority Element II(Leet Code)](https://leetcode.com/problems/majority-element-ii/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Majority_Element_II.cpp) | c++
+36|[ Best Time to Buy and Sell Stock III(leet code)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/BestTimetoBuyandSellStock_III.cpp)|c++
+
+
 # 2D Array
 
 No | Program | Solution | Language 
@@ -153,4 +156,4 @@ No | Program | Solution | Language
 28|[Sudoku Solver(leet code)](https://leetcode.com/problems/sudoku-solver/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Sudoku_Solver.cpp)|c++
 29|[Permutation Sequence(leet code)](https://leetcode.com/problems/permutation-sequence/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/PermutationSequence.cpp)|c++
 30|[Gray Code(leet code)](https://leetcode.com/problems/gray-code/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/GrayCode.cpp)|c++
-31|[ Best Time to Buy and Sell Stock III(leet code)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/GrayCode.cpp)|c++
+
