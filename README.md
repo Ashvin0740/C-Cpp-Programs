@@ -121,7 +121,7 @@ No | Program | Solution | Language
 16 |[Search Insert Position(leet code)](https://leetcode.com/problems/search-insert-position/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SearchInsertPosition.cpp) | c++
 17 |[Search in Rotated Sorted Array II(leet code)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SearchinRotatedSortedArrayII.cpp) | c++
 18 |[Longest Increasing Subsequence(leet code)](https://leetcode.com/problems/longest-increasing-subsequence/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LongestIncreasingSubsequence.cpp) | c++
-
+19 |[Two Sum II - Input array is sorted(leet code)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/TwoSumII-Inputarrayissorted.cpp) | c++
 
 # Recursion
 
@@ -157,4 +157,4 @@ No | Program | Solution | Language
 28|[Sudoku Solver(leet code)](https://leetcode.com/problems/sudoku-solver/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Sudoku_Solver.cpp)|c++
 29|[Permutation Sequence(leet code)](https://leetcode.com/problems/permutation-sequence/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/PermutationSequence.cpp)|c++
 30|[Gray Code(leet code)](https://leetcode.com/problems/gray-code/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/GrayCode.cpp)|c++
-
+31|[Sub Set Sum(leet code)] |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/SubSetSum.cpp)|c++
