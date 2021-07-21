@@ -158,3 +158,17 @@ No | Program | Solution | Language
 29|[Permutation Sequence(leet code)](https://leetcode.com/problems/permutation-sequence/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/PermutationSequence.cpp)|c++
 30|[Gray Code(leet code)](https://leetcode.com/problems/gray-code/) |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/GrayCode.cpp)|c++
 31|[Sub Set Sum(leet code)] |[solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/recursion/SubSetSum.cpp)|c++
+
+# Linked List
+
+No | Program | Solution | Language 
+---|---------|----------|---------
+1 |LinkedList_InsertionI | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/LinkedList_InsertionI.cpp) | c++
+2 |CircularLinkedListInsertion | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/CircularLinkedListInsertion.cpp) | c++
+3 |LinkedListKAppend | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/LinkedListKAppend.cpp) | c++
+4 |merge_sort| [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/merge_sort.cpp) | c++
+5 |[Convert Binary Number in a Linked List to Integer(leet code)](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/ConvertBinaryNumberinaLinkedListtoInteger.cpp) | c++
+6 |[Delete Node in a Linked List(leet code)](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/DeleteNodeinaLinkedList.cpp) | c++
+7 |[ Merge Two Sorted Lists(leet code)](https://leetcode.com/problems/merge-two-sorted-lists/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/MergeTwoSortedLists.cpp) | c++
+8 |[ Merge In Between Linked Lists(leet code)](https://leetcode.com/problems/merge-in-between-linked-lists/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/MergeInBetweenLinkedLists.cpp) | c++
+9 |[ Middle of the Linked List(leet code)](https://leetcode.com/problems/middle-of-the-linked-list/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/MiddleoftheLinkedList.cpp) | c++
