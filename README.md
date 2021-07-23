@@ -172,3 +172,6 @@ No | Program | Solution | Language
 7 |[ Merge Two Sorted Lists(leet code)](https://leetcode.com/problems/merge-two-sorted-lists/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/MergeTwoSortedLists.cpp) | c++
 8 |[ Merge In Between Linked Lists(leet code)](https://leetcode.com/problems/merge-in-between-linked-lists/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/MergeInBetweenLinkedLists.cpp) | c++
 9 |[ Middle of the Linked List(leet code)](https://leetcode.com/problems/middle-of-the-linked-list/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/MiddleoftheLinkedList.cpp) | c++
+10 | Kth-elementFromLastInLinked_list| [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/Kth-elementFromLastInLinked_list.cpp) | c++
+11 |[ Swap Nodes in Pairs(leet code)](https://leetcode.com/problems/swap-nodes-in-pairs/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/SwapNodesinPairs.cpp) | c++
+12 |[Swapping Nodes in a Linked List(leet code)](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/SwappingNodesinaLinkedList.cpp) | c++
