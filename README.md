@@ -122,6 +122,7 @@ No | Program | Solution | Language
 17 |[Search in Rotated Sorted Array II(leet code)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/SearchinRotatedSortedArrayII.cpp) | c++
 18 |[Longest Increasing Subsequence(leet code)](https://leetcode.com/problems/longest-increasing-subsequence/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LongestIncreasingSubsequence.cpp) | c++
 19 |[Two Sum II - Input array is sorted(leet code)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/TwoSumII-Inputarrayissorted.cpp) | c++
+20 |[Find Positive Integer Solution for a Given Equation(leet code)](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/commit/19093f163a2d28f7165ec493438cb5b547cbc1a4) | c++
 
 # Recursion
 
