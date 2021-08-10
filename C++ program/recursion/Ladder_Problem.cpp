@@ -1,23 +1,19 @@
 #include<iostream>
 using namespace std;
-int f(int n, int k) {
+int f(int n) {
     if(n ==0){
         return 1;
     }
     if(n<0){
         return 0;
     }
-    int ans = 0;
-
-    for(int i =1; i<=k; i++) {
-        ans  += f(n-i, k);
-    }
-    return ans;
+    return f(n-1) + f(n-2) +f(n-3);
+    
 }
 
 int main() {
-    int n, k;
-    cin >> n>> k;
-    cout<<f(n,k)<<endl;
+    int n;
+    cin >> n;
+    cout<<f(n)<<endl;
     return 0;
 }
