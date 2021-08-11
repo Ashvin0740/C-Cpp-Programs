@@ -183,3 +183,17 @@ No | Program | Solution | Language
 15 |[Reverse Linked List II(leet code)](https://leetcode.com/problems/reverse-linked-list-ii/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/ReverseLinkedList_II.cpp) | c++
 16 |[Remove Duplicates from Sorted List II(leet code)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/RemoveDuplicatesfromSortedList_II.cpp) | c++
 17 |[Insertion Sort List(leet code)](https://leetcode.com/problems/insertion-sort-list/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/InsertionSortList.cpp) | c++
+18 |[ReverseLinkedList(leet code)](https://leetcode.com/problems/reverse-linked-list/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/LinkedList/ReverseLinkedList.cpp) | c++
+
+# Stack
+
+No | Program | Solution | Language 
+---|---------|----------|---------
+1 |implementation_on_Stack | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/implementation_on_Stack.cpp) | c++
+2 |Temptype_stack| [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/Temptype_stack.cpp) | c++
+3 |reverseStack_1 | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/reverseStack_1.cpp) | c++
+4 |reverseStack_2 | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/reverseStack_2.cpp) | c++
+5 |Balanced_Parenthesis | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/Balanced_Parenthesis.cpp) | c++
+6 |Stock_Span_Problem | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/Stock_Span_Problem.cpp) | c++
+
+
