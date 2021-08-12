@@ -195,5 +195,8 @@ No | Program | Solution | Language
 4 |reverseStack_2 | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/reverseStack_2.cpp) | c++
 5 |Balanced_Parenthesis | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/Balanced_Parenthesis.cpp) | c++
 6 |Stock_Span_Problem | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/Stock_Span_Problem.cpp) | c++
-
+7 |Max_Min_stack | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/Max_Min_stack.cpp) | c++
+8|[Min Stack(leet code)](https://leetcode.com/problems/min-stack/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/Min_Stack.cpp) | c++
+9|Evaluate Reverse Polish Notation(leet code)](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/EvaluateReversePolishNotation.cpp) | c++
+10|[LargestRectangleinHistogram(leet code)](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/LargestRectangleinHistogram.cpp) | c++
 
