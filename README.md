@@ -200,3 +200,12 @@ No | Program | Solution | Language
 9|Evaluate Reverse Polish Notation(leet code)](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/EvaluateReversePolishNotation.cpp) | c++
 10|[LargestRectangleinHistogram(leet code)](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/LargestRectangleinHistogram.cpp) | c++
 
+# Queue
+
+No | Program | Solution | Language 
+---|---------|----------|---------
+1 |implementation_Queue | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/implementation_Queue.cpp) | c++
+1 |UsingtheSTLQueueClass | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/UsingtheSTLQueueClass.cpp) | c++
+1 |Stack_using_2_Queues| [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Stack_using_2_Queues.cpp) | c++
+1 |Queue_Implementation_using_LinkedListSTL | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Queue_Implementation_using_LinkedListSTL.cpp) | c++
+1 |First_Non_Repeating_Character_Implemenation | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/First_Non_Repeating_Character_Implemenation.cpp) | c++
