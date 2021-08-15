@@ -197,15 +197,24 @@ No | Program | Solution | Language
 6 |Stock_Span_Problem | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/Stock_Span_Problem.cpp) | c++
 7 |Max_Min_stack | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/Max_Min_stack.cpp) | c++
 8|[Min Stack(leet code)](https://leetcode.com/problems/min-stack/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/Min_Stack.cpp) | c++
-9|Evaluate Reverse Polish Notation(leet code)](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/EvaluateReversePolishNotation.cpp) | c++
+9|[Evaluate Reverse Polish Notation(leet code)](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/EvaluateReversePolishNotation.cpp) | c++
 10|[LargestRectangleinHistogram(leet code)](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/LargestRectangleinHistogram.cpp) | c++
+11 |[ Implement Queue using Stacks(leet code)](https://leetcode.com/problems/implement-queue-using-stacks/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Stack/Implement_Queue_using_Stacks.cpp) | c++
 
 # Queue
 
 No | Program | Solution | Language 
 ---|---------|----------|---------
 1 |implementation_Queue | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/implementation_Queue.cpp) | c++
-1 |UsingtheSTLQueueClass | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/UsingtheSTLQueueClass.cpp) | c++
-1 |Stack_using_2_Queues| [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Stack_using_2_Queues.cpp) | c++
-1 |Queue_Implementation_using_LinkedListSTL | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Queue_Implementation_using_LinkedListSTL.cpp) | c++
-1 |First_Non_Repeating_Character_Implemenation | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/First_Non_Repeating_Character_Implemenation.cpp) | c++
+2 |UsingtheSTLQueueClass | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/UsingtheSTLQueueClass.cpp) | c++
+3 |Stack_using_2_Queues| [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Stack_using_2_Queues.cpp) | c++
+4 |Queue_Implementation_using_LinkedListSTL | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Queue_Implementation_using_LinkedListSTL.cpp) | c++
+5 |First_Non_Repeating_Character_Implemenation | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/First_Non_Repeating_Character_Implemenation.cpp) | c++
+6 |Interview_Problem_Maximum_Length_Unique_Character_Substring_SlidingWindow | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Interview_Problem_Maximum_Length_Unique_Character_Substring_SlidingWindow.cpp) | c++
+7 |Interview_Problem_Maximumelement_DequeSTL | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Interview_Problem_Maximumelement_DequeSTL.cpp) | c++
+8 |[Maximum Subarray Min-Product(leet code)](https://leetcode.com/problems/maximum-subarray-min-product/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Maximum_Subarray_Min_Product.cpp) | c++
+9|[Longest Valid Parentheses(leet code)](https://leetcode.com/problems/longest-valid-parentheses/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Longest_Valid_Parentheses.cpp) | c++
+10|[Sliding Window Maximum(leet code)](https://leetcode.com/problems/sliding-window-maximum/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Sliding_Window_Maximum.cpp) | c++
+11 |[Implement Stack using Queues(leet code)](https://leetcode.com/problems/implement-stack-using-queues/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Implement_Stack_using_Queues.cpp) | c++
+12|[Maximum Subarray Min-Product(leet code)](https://leetcode.com/problems/maximum-subarray-min-product/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Maximum_Subarray_Min_Product.cpp) | c++
+
