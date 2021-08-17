@@ -30,13 +30,15 @@ void print(node * root){
 	if(root == NULL){
 		return;
 	}
-	cout << root->data<<"";
+	cout << root->data<<" ";
 	print(root->left);
 	print(root->right);
 
 }
+
 int main() {
 	node* root = buildTree();
 	print(root);
+
 	return 0;
 }
