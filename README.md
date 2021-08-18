@@ -218,3 +218,16 @@ No | Program | Solution | Language
 11 |[Implement Stack using Queues(leet code)](https://leetcode.com/problems/implement-stack-using-queues/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Implement_Stack_using_Queues.cpp) | c++
 12|[Maximum Subarray Min-Product(leet code)](https://leetcode.com/problems/maximum-subarray-min-product/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Maximum_Subarray_Min_Product.cpp) | c++
 
+# Queue
+
+No | Program | Solution | Language 
+---|---------|----------|---------
+1 |Inorder_traversal | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Inorder_traversal.cpp) | c++
+2 |Preorder_Build_Print | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/BinaryTreePreorderBuildandPrint.cpp) | c++
+3 |Postorder_traversal | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Postder_traversal.cpp) | c++
+4 |BFS | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/BFS.cpp) | c++
+5 |Level_Order_Print_Recursive | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Level_Order_Print_Recursive.cpp) | c++
+6 |CountandSum_Nodes | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/CountandSum_Nodes.cpp) | c++
+7 |Diameter_of_Tree | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Diameter_of_Tree.cpp) | c++
+8 |Solution_Sum_Replacemen | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Solution_Sum_Replacement.cpp) | c++
+
