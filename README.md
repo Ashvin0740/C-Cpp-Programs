@@ -230,4 +230,14 @@ No | Program | Solution | Language
 6 |CountandSum_Nodes | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/CountandSum_Nodes.cpp) | c++
 7 |Diameter_of_Tree | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Diameter_of_Tree.cpp) | c++
 8 |Solution_Sum_Replacemen | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Solution_Sum_Replacement.cpp) | c++
+9|[Binary Tree Inorder Traversal(leet code)](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Binary_Tree_Inorder_Traversal.cpp) | c++
+10|[Binary Tree Preorder Traversal(leet code)](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Binary_Tree_Preorder_Traversal.cpp) | c++
+11|[Binary Tree Postorder Traversal(leet code)](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Binary_Tree_Postorder_Traversal.cpp) | c++
+12|[Maximum Depth of Binary Tree(leet code)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Maximum_Depth_of_Binary_Tree.cpp) | c++
+13|[Binary Tree Level Order Traversal(leet code)](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Binary_Tree_Level_Order_Traversal.cpp) | c++
+14 |[Balanced Binary Tree(leet code)](https://leetcode.com/problems/balanced-binary-tree/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Balanced_Binary_Tree.cpp) | c++
+15|[Same Tree(leet code)](https://leetcode.com/problems/same-tree/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Same_Tree.cpp) | c++
+16 |[Construct Binary Tree from Preorder and Inorder Traversal(leet code)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp) | c++
+17|[Path Sum(leet code)](https://leetcode.com/problems/path-sum/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Path_Sum.cpp) | c++
+18|[Sum of Left Leaves(leet code)](https://leetcode.com/problems/sum-of-left-leaves/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Sum_of_Left_Leaves.cpp) | c++
 
