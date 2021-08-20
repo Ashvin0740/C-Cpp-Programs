@@ -240,4 +240,5 @@ No | Program | Solution | Language
 16 |[Construct Binary Tree from Preorder and Inorder Traversal(leet code)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp) | c++
 17|[Path Sum(leet code)](https://leetcode.com/problems/path-sum/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Path_Sum.cpp) | c++
 18|[Sum of Left Leaves(leet code)](https://leetcode.com/problems/sum-of-left-leaves/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Sum_of_Left_Leaves.cpp) | c++
-
+19 |Right_View | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Right_View.cpp) | c++
+20|[Deepest Leaves Sum(leet code)](https://leetcode.com/problems/deepest-leaves-sum/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Deepest_Leaves_Sum.cpp) | c++
