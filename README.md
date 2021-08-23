@@ -242,3 +242,10 @@ No | Program | Solution | Language
 18|[Sum of Left Leaves(leet code)](https://leetcode.com/problems/sum-of-left-leaves/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Sum_of_Left_Leaves.cpp) | c++
 19 |Right_View | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Right_View.cpp) | c++
 20|[Deepest Leaves Sum(leet code)](https://leetcode.com/problems/deepest-leaves-sum/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Deepest_Leaves_Sum.cpp) | c++
+
+# binary search tree
+No | Program | Solution | Language 
+---|---------|----------|---------
+1 |Binary_Search_Tree_Insertion_Build | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Search%20Tree/Binary_Search_Tree_Insertion_Build.cpp) | c++
+2 |BST_Searching | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Search%20Tree/BST_Searching.cpp) | c++
+3 |BST_Deletion| [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Search%20Tree/BST_Deletion.cpp) | c++
