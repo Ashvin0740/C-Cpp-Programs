@@ -218,7 +218,7 @@ No | Program | Solution | Language
 11 |[Implement Stack using Queues(leet code)](https://leetcode.com/problems/implement-stack-using-queues/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Implement_Stack_using_Queues.cpp) | c++
 12|[Maximum Subarray Min-Product(leet code)](https://leetcode.com/problems/maximum-subarray-min-product/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Queue/Maximum_Subarray_Min_Product.cpp) | c++
 
-# Queue
+# Binary Tree 
 
 No | Program | Solution | Language 
 ---|---------|----------|---------
@@ -243,7 +243,7 @@ No | Program | Solution | Language
 19 |Right_View | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Right_View.cpp) | c++
 20|[Deepest Leaves Sum(leet code)](https://leetcode.com/problems/deepest-leaves-sum/) | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Tree/Deepest_Leaves_Sum.cpp) | c++
 
-# binary search tree
+# Binary search tree
 No | Program | Solution | Language 
 ---|---------|----------|---------
 1 |Binary_Search_Tree_Insertion_Build | [solution](https://github.com/Ashvin0740/C-Cpp-Programs/blob/main/C%2B%2B%20program/Binary%20Search%20Tree/Binary_Search_Tree_Insertion_Build.cpp) | c++
