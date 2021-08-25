@@ -46,14 +46,12 @@ int diameter(node*root){
 
     return max(op1,max(op2,op3));
 }
-
 // BinaryTreeDiameteroftheTreeOptimizedApproach
 class Pair{
     public:
         int height;
         int diameter;
 };
-
 Pair fastDiameter(node*root){
     Pair p;
     if(root==NULL){
